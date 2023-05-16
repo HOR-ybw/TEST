@@ -1,4 +1,6 @@
+#include <iostream>
 #include "http_conn.h"
+using namespace std;
 
 // 定义HTTP响应的一些状态信息
 const char* ok_200_title = "OK";
